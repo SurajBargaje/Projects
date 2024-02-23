@@ -21,12 +21,13 @@ This project involves creating a web page to advertise a mobile app called "Excu
     ```css
     /* Example CSS Code */
     body {
-        font-family: 'Arial', sans-serif;
-        background-color: #f4f4f4;
+        font-family: background-color: black;
+        text-align: center;
+        
     }
 
     h1 {
-        color: #4285f4;
+        color: white;
     }
     ```
 
